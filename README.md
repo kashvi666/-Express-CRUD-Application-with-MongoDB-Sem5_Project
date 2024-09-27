@@ -1,5 +1,6 @@
 Express CRUD API with User Authentication
-Project Overview
+
+Project Overview:
 This project is a RESTful API built using Node.js and Express.js, designed for basic user management functionalities. It allows users to create, read, update, and delete their accounts while implementing secure authentication using bcrypt for password hashing. The application uses MongoDB for data storage and is containerized using Docker for easy deployment and scalability.
 
 Features
